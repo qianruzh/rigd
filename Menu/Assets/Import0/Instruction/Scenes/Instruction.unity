@@ -1311,7 +1311,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 4.4
+  field of view: 49.7
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1337,7 +1337,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 319931618}
   m_LocalRotation: {x: 0.53572357, y: 0.0020436184, z: -0.008527434, w: 0.84434795}
-  m_LocalPosition: {x: 0, y: 5.85, z: -2.66}
+  m_LocalPosition: {x: -0.037, y: 0.716, z: -0.238}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1843,11 +1843,11 @@ MonoBehaviour:
   pagesFlippingSoundDelay: 0.3
   touchPad: {fileID: 2033642787}
   pageViews:
-  - {fileID: 1910012851}
-  - {fileID: 1246606060}
-  - {fileID: 2091239092}
-  - {fileID: 518958270}
-  - {fileID: 2064140743}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &431238587
 GameObject:
   m_ObjectHideFlags: 0
@@ -6670,7 +6670,7 @@ Transform:
   - {fileID: 518958269}
   - {fileID: 2064140742}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1311963897
 GameObject:
@@ -10854,7 +10854,7 @@ Transform:
   - {fileID: 1118034014}
   - {fileID: 1303797806}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2037691812
 GameObject:
